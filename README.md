@@ -1,4 +1,4 @@
-# EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-8 : ADVANCED ENCRYPTION STANDARD (AES) ALGORITHM
 
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
@@ -45,7 +45,8 @@ int main()
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/94b5b11a-d690-48b6-97ee-e7196361dcda)
+![image](https://github.com/user-attachments/assets/2cc67f49-8917-4685-afc0-827458db32d1)
+
 
 ## RESULT: 
    Thus , to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
