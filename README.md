@@ -39,7 +39,6 @@ int main()
    // Decrypt the URL (since XOR is reversible using the same key)
    xor_encrypt_decrypt(url, key);
    printf("Decrypted URL: %s\n", url);
-
    return 0;
 }
 
